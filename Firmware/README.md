@@ -1,1 +1,1 @@
-# Firmware v 1.0
+# Firmware v1.0
