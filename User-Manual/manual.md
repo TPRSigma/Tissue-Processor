@@ -57,7 +57,7 @@ The first three lines contain comments. The remainder consists of 20 pairs of li
 
 Future versions of the software may include additional parameters controlling lift movement.
 
-<img width="605" height="339" alt="VypisSouboru" src="https://github.com/user-attachments/assets/3f4e464b-560a-404e-9403-b61b864fa145" />
+<img width="1081" height="605" alt="VypisSouboru" src="https://github.com/user-attachments/assets/3f4e464b-560a-404e-9403-b61b864fa145" />
 
 **Fig. 4 –** Example of a control file defining the immersion protocol.
 
