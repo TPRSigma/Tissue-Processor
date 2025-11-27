@@ -19,12 +19,15 @@ The basic principle of the tissue processor is shown in the schematic diagram in
 These dimensions allow inserting a stack of **four sample baskets**, each containing biological material. These baskets are compatible with the Leica EM CPD300 device and have an outer diameter of 16 mm and a height of 11 mm. The baskets are held in a frame suspended from a motorized lift positioned at the edge of the carousel. The lift, controlled by software, lowers the basket assembly into the tube and raises it again. A detail of this basket assembly is shown in **Fig. 3**.
 
 <img width="1081" height="1443" alt="TP-assembly" src="https://github.com/user-attachments/assets/db4667b2-ca06-4a82-8753-f23126696ace" />
+
 **Fig. 1 –** Overview schematic of the tissue processor with front panel, carousel, lift mechanism, and protective lid.  
 
 ![PB250017](https://github.com/user-attachments/assets/2aa4bad4-8f14-4cbd-9fca-2e1008564761)
+
 **Fig. 2 –** Overall view of the manufactured tissue processor with tubes and sample baskets.  
 
 ![08](https://github.com/user-attachments/assets/418d5930-504e-4655-b9a6-2b1d70bcb2af)
+
 **Fig. 3 –** Detail of the basket assembly suspended on the lift above the baths.
 
 ---
@@ -55,6 +58,7 @@ The first three lines contain comments. The remainder consists of 20 pairs of li
 Future versions of the software may include additional parameters controlling lift movement.
 
 <img width="605" height="339" alt="VypisSouboru" src="https://github.com/user-attachments/assets/3f4e464b-560a-404e-9403-b61b864fa145" />
+
 **Fig. 4 –** Example of a control file defining the immersion protocol.
 
 ---
