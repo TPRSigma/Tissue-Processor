@@ -13,7 +13,7 @@ The device automates sequential immersion of samples into up to **20 reagent bat
 - **Fully automated sample immersion** into up to 20 baths  
 - **Compatible with Leica EM CPD300 baskets** (up to 4 baskets per run)  
 - **Motorized carousel + lift** controlled by an onboard microcontroller  
-- **SMS notifications** (status, errors, power outage alerts)  
+- **e-mail notifications** (status, errors, power outage alerts)  
 - **Backup battery** to complete the ongoing immersion step  
 - **Simple protocol definition** via text file (`proto_NN.txt`) on SD card  
 - **Manual control mode** for lift and carousel  
