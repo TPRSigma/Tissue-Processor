@@ -21,5 +21,3 @@ The device automates sequential immersion of samples into up to **20 reagent bat
 - **Intuitive front-panel interface** with MENU/ENTER buttons and rotary knob
 
 ---
-
-<img width="1081" height="1443" alt="TP-assembly" src="https://github.com/user-attachments/assets/d4139717-9aba-42dc-aed5-f5266d836a54" />
