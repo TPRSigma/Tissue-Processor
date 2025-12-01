@@ -72,5 +72,5 @@ Under **RUN** tab:
 
 ## Full User Manual
 
-The complete detailed manual (purpose, description, interface, protocol format, operation, etc.) is in the manual.md and/or manual.pdf files in this ("User-Manual") repository folder.
+**The complete detailed manual** (purpose, description, interface, protocol format, operation, etc.) is in the **manual.md** and/or **manual.pdf** files in this ("User-Manual") repository folder.
 
