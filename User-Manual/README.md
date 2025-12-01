@@ -3,9 +3,9 @@
 ### 1. Prepare the SD Card
 Create or copy the following files to the SD card:
 
-proto_XX.txt # protocol file that defines immersion steps
-config.txt # device configuration (network, timings, etc.)
-log.txt # created and updated automatically
+**proto_XX.txt** protocol file that defines immersion steps
+**config.txt** device configuration (network, timings, etc.)
+**log.txt** created and updated automatically
 
 Protocol files must follow the format:
 proto_01.txt ... proto_99.txt
