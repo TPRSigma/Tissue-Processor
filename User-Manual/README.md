@@ -1,4 +1,5 @@
 # Tissue Processor - Quick Start Guide
+<img width="1178" height="673" alt="Manuál" src="https://github.com/user-attachments/assets/4a3844c7-7ed7-4662-8796-38071a059dee" />
 ---
 ### 1. Prepare the SD Card
 Create or copy the following files to the SD card:
