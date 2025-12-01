@@ -1,8 +1,7 @@
 # Tissue-Processor
 Simple Tissue Processor for fixation and contrasting of samples for light and electron microscopy 
 
-<img width="1781" height="1066" alt="Úvodní obr" src="https://github.com/user-attachments/assets/c847bbe7-5f59-42a4-b18f-9bd47e9594cb" />
-
+<img width="1781" height="1054" alt="Úvodní obr" src="https://github.com/user-attachments/assets/ee9d35b5-f3bb-4ef4-ab48-2eb2be69ef58" />
 
 This repository contains the documentation, control files, and construction details for a custom-built **automated tissue processor** designed for preparing biological samples for **light and electron microscopy**.  
 The device automates sequential immersion of samples into up to **20 reagent baths**, following a user-defined protocol stored on an SD card.
