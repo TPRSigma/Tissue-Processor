@@ -90,5 +90,5 @@ Under **RUN** tab:
 
 ## Full User Manual
 
-The complete detailed manual (purpose, description, interface, protocol format, operation, etc.) follows below.
+The complete detailed manual (purpose, description, interface, protocol format, operation, etc.) is in the manual.md and/or manual.pdf files in this repository folder.
 
