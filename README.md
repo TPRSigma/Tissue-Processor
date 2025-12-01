@@ -1,5 +1,5 @@
 # Tissue-Processor
-Simple Tissue Processor for fixation and contrasting of samples for light and electron microscopy 
+Simple Tissue Processor for fixation and contrasting of samples for **light and electron microscopy**. 
 
 <img width="1781" height="1054" alt="Úvodní obr" src="https://github.com/user-attachments/assets/ee9d35b5-f3bb-4ef4-ab48-2eb2be69ef58" />
 
