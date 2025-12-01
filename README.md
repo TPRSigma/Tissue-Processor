@@ -1,7 +1,7 @@
 # Tissue-Processor
 Simple Tissue Processor for fixation and contrasting of samples for light and electron microscopy 
 
-This repository contains the documentation, control files, and construction details for a custom-built **automated tissue processor** designed for preparing biological samples for **scanning electron microscopy (SEM)**.  
+This repository contains the documentation, control files, and construction details for a custom-built **automated tissue processor** designed for preparing biological samples for **light and electron microscopy**.  
 The device automates sequential immersion of samples into up to **20 reagent baths**, following a user-defined protocol stored on an SD card.
 
 ---
