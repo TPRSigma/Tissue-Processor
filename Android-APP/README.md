@@ -5,7 +5,7 @@
 </p>
 > © 2025 Jane Doe – Released under the MIT License.  <br>
 
-
+<br>
     
 This directory contains the Android application **TP Control**, which communicates 
 with the Tissue Processor device via Bluetooth.
