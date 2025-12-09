@@ -72,8 +72,10 @@ This guide explains how to install an Android application directly from an `.apk
 
 - If the installation fails, make sure the `.apk` file is not corrupted and is compatible with your Android version.
 - After installation, consider disabling **installation from unknown sources** for security.
+---
 
-
+### 6. Pair the app with the Tissue Processor over Bluetooth.
+> **Note:** The app requires Bluetooth permission on the Android device.
 ---
 
 ## 📲 Installing and Running APP
