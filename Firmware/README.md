@@ -24,12 +24,15 @@ The firmware controls all key functions of the device, including:
 ---
 
 ## 📦 Structure
+
 /Firmware
-├── tissue_processor.ino # Arduino IDE project
+│
+├── tissue_processor.ino        # Arduino IDE project
+│
 └── bin/
-├── firmware_v1.0.bin
-├── firmware_v1.0.elf
-└── ...
+    ├── firmware_v1.0.bin
+    ├── firmware_v1.0.elf
+    └── ...
 
 ---
 
