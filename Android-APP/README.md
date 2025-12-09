@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/android.svg?raw=1" width="60">
 </p>
-> © 2025 Jane Doe – Released under the MIT License.  
+> © 2025 Jane Doe – Released under the MIT License.  <br>
 
 
     
