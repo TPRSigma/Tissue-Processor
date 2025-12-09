@@ -20,12 +20,12 @@ The app provides a user-friendly interface for:
 ---
 ## 📦 Structure
 ```
-/TP-Control
+/Android-APP
 │
-├── app/ # Android Studio project
-├── build/ # Compiled APKs (optional)
+├── build/ # Compiled APK
 └── README.md
 ```
+<!-- ├── app/ # Android Studio project -->
 ---
 
 ## 📲 Installing an APK on Android (build)
