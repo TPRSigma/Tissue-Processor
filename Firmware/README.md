@@ -27,11 +27,11 @@ The firmware controls all key functions of the device, including:
 ```
 /Firmware
 │
-├── tissue_processor.ino        # Arduino IDE project
+├── Graficke_rozhrani_v22a.ino        # Arduino IDE project
 │
 └── bin/
-    ├── firmware_v1.0.bin
-    ├── firmware_v1.0.elf
+    ├── Graficke_rozhrani_v22a.ino.bin
+    ├── Graficke_rozhrani_v22a.ino.elf
     └── ...
 ```
 ---
@@ -47,4 +47,4 @@ To upload the firmware:
 Or, to flash the precompiled binary using `esptool.py`:
 
 ```bash
-esptool.py --chip esp32 write_flash 0x10000 firmware_v1.0.bin
+esptool.py --chip esp32 write_flash 0x10000 Graficke_rozhrani_v22a.ino.merged.bin
