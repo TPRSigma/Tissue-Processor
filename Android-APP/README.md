@@ -3,9 +3,9 @@
 <p align="center">
 <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/android.svg?raw=1" width="60">
 </p>
-<span style="font-size: 6px;">© 2025 Jane Doe – Released under the MIT License.</span>
+>© 2025 Jane Doe – Released under the MIT License.
 
-
+  
 This directory contains the Android application **TP Control**, which communicates 
 with the Tissue Processor device via Bluetooth.
 
