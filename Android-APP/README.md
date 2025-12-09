@@ -77,7 +77,7 @@ This guide explains how to install an Android application directly from an `.apk
 ### 6. Pair the app with the Tissue Processor over Bluetooth.
 > **Note:** The app requires Bluetooth permission on the Android device.
 ---
-
+<!--
 ## 📲 Installing and Running APP
 
 1. Open the project in **Android Studio**.  
@@ -88,4 +88,4 @@ This guide explains how to install an Android application directly from an `.apk
 > **Note:** The app requires Bluetooth permission on the Android device.
 
 ---
-
+-->
