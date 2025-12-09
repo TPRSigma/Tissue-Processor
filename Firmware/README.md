@@ -2,8 +2,9 @@
 <p align="center">
 <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/arduino.svg?raw=1" width="60">
 </p>
-<span style="font-size: 12px;">© 2025 Jane Doe – Released under the MIT License.</span>
-
+<sup>© 2025 Jane Doe – Released under the MIT License.</sup>
+<br>
+<br>
 This directory contains the firmware used to control the Tissue Processor device.  
 It includes:
 
