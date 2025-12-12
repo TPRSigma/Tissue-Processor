@@ -1,2 +1,3 @@
 # 3D CAD Models
-<img width="1081" height="1443" alt="TP-assembly" src="https://github.com/user-attachments/assets/04d0ec5a-d564-4a81-b8ab-d17f3417fc0b" />
+This directory contains **3D CAD models** of individual parts of the Tissue Processor in **STL** format as well as the entire assembly **TP-assembly** in **IGES** and **STEP** formats.
+<img width="1081" alt="TP-assembly" src="https://github.com/user-attachments/assets/04d0ec5a-d564-4a81-b8ab-d17f3417fc0b" />
